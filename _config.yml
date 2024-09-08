@@ -1,0 +1,9 @@
+# Site settings
+title: CS 294-277 Robots That Learn
+email: robots-that-learn@berkeley.edu
+description:
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://robots-that-learn.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
