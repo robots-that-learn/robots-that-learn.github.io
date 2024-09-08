@@ -6,18 +6,18 @@ layout: default
 
 ## Logistics
 
-UC Berkeley (CN:34334)
+UC Berkeley Course Number 34334
 
-Time: Mondays 3-5 pm
+Time: Mondays 3-5PM
 
-Location: 1203 Berkeley Way West
+Location: Room 1203 @ [Berkeley Way West](https://maps.app.goo.gl/thh2ey5nUR7VsMFB8)
 
 Instructor: [Jitendra Malik](https://people.eecs.berkeley.edu/~malik)
 
 TA: [Toru Lin](https://toruowo.github.io/)
 
 
-## Introduction from Jitendra
+## ~ Welcome from Jitendra ~
 
 Robotics has been late to the deep learning revolution compared to computer vision and natural
 language processing, mainly because "big data" is not so readily available. However significant
@@ -32,34 +32,46 @@ over specialist robots on the factory floor. The course itself will have three m
 biological motor control basics for inspiration (2) main paradigms for robot motor skill
 acquisition (3) case studies of locomotion, navigation and manipulation.
 
+### Prerequisites
 This is a graduate level class, and prerequisite knowledge at the level of Deep Learning (Bishop
 & Bishop), and Reinforcement Learning (Sutton & Barto) will be assumed.
 
-## Updates
+## Course Format
 
-* We're having our first lecture on 9/9! Stay tuned!
+Each session consists of a two 1-hour lectures with a 10 minute break in between, i.e. 3:10-4 PM and 4:10-5PM. We will use notations A/B to denote the sub-sessions: e.g. Lecture 1A, 1B, 2A, 2B, ...
 
-## Lectures
+## Schedule
 
-* [Lecture 1]() (9/9) Introduction
-* [Lecture 2]() (9/16) Biomechanics of walking and running
-* [Lecture 3]() (9/23) Robot mechanisms - kinematics and dynamics
-* [Lecture 4]() (9/30) The human hand and dexterous object manipulation
-* [Lecture 5]() (10/7) Proprioception and tactile perception
-* [Lecture 6]() (10/21) Vision for action
-* [Lecture 7]() (10/28) Computational neuroscience perspective on prediction and control
-* [Lecture 8]() (11/4) The developmental perspective on motor control
-* [Lecture 9]() (11/18) Classical robotics approaches- MPC, SLAM, TAMP
-* [Lecture 10]() (11/25) Reinforcement Learning
-* [Lecture 11]() (12/2) Behavior cloning
-* [Lecture 12]() (12/9) Visual Imitation
-<!-- * [Lecture 13]() (12/16) Case Studies in Locomotion
-* [Lecture 14]() (12/23) Case Studies in Navigation
-* [Lecture 15]() (12/30) Case Studies in Dexterous Manipulation
-* [Lecture 16]() (1/6) Long horizon planning and the role of language
-* [Lecture 17]() (1/13) Additional topics based on class interest -->
+The following schedule is a tentative assignment and will evolve in real time. Weekly materials will be added.
 
-## Reference Materials
+* [Lecture 1A]() (9/9) Introduction
+* [Lecture 1B]() (9/9) Biomechanics of walking and running
+* [Lecture 2A]() (9/16) Robot mechanisms - kinematics and dynamics
+* [Lecture 2B]() (9/16) The human hand and dexterous object manipulation
+* [Lecture 3A]() (9/23) The human hand and dexterous object manipulation
+* [Lecture 3B]() (9/23) Proprioception and tactile perception
+* [Lecture 4A]() (9/30) Vision for action
+* [Lecture 4B]() (9/30) Computational neuroscience perspective on prediction and control
+* [Lecture 5A]() (10/7) The developmental perspective on motor control
+* [Lecture 5B]() (10/7) Classical robotics approaches- MPC, SLAM, TAMP
+* [Lecture 6AB]() (10/14) Reinforcement Learning
+* [Lecture 7AB]() (10/21) Behavior cloning
+* [Lecture 8AB]() (10/28) Visual Imitation
+* [Lecture 9AB]() (11/04) Case Studies in Locomotion
+* Veterans Day (11/11)
+* [Lecture 10AB]() (11/18) Case Studies in Navigation
+* [Lecture 11AB]() (11/25) Case Studies in Dexterous Manipulation
+* [Lecture 12AB]() (12/2) Long horizon planning and the role of language
+* [RRR week]() (12/9) Project Presentations
+
+## Coursework
+
+- Weekly Reading Assignment
+- Lecture Scribing
+- Midterm
+- Final Project
+
+## Background Materials
 
 * [Deep Learning (Bishop & Bishop)](https://www.bishopbook.com/)
 * [Reinforcement Learning (Sutton & Barto)](http://incompleteideas.net/book/the-book-2nd.html)
