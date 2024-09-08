@@ -77,11 +77,9 @@ The following schedule is a tentative assignment and will evolve in real time. W
 - 30% Midterm
 - 50% Final Project
 
-### Weekly Reading Assignment
+**Weekly Reading Assignment**: For every weekly reading, each student should come up with 2 multiple choice questions, and supply with answers. We will send out a Google form for submission each week.
 
-**Weekly Reading Assignment**:
-
-**Lecture Scribing**: Two student scribes per lecture. Sign-up sheet [here](https://docs.google.com/spreadsheets/d/1TQzGYdRPp4Wtx0MXxJ19brMyj-wWIv6f1JznIZG42Lk/edit?usp=sharing).
+**Lecture Scribing**: For each lecture, two student scribes will organize lecture notes in LaTeX. The lecture notes should be ready by the same Friday. Sign-up sheet [here](https://docs.google.com/spreadsheets/d/1TQzGYdRPp4Wtx0MXxJ19brMyj-wWIv6f1JznIZG42Lk/edit?usp=sharing).
 
 **Midterm and Final Project**: More details to come.
 
