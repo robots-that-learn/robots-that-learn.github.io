@@ -2,9 +2,9 @@
 layout: default
 ---
 
-CS 294-277, Robots That Learn (Fall 2024)
+# CS 294-277, Robots That Learn (Fall 2024)
 
-# Logistics
+## Logistics
 
 UC Berkeley (CN:34334)
 
