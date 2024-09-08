@@ -20,7 +20,7 @@ TA: [Toru Lin](https://toruowo.github.io/)
 ## Introduction from Jitendra
 
 Robotics has been late to the deep learning revolution compared to computer vision and natural
-language processing, mainly because ”big data” is not so readily available. However significant
+language processing, mainly because "big data" is not so readily available. However significant
 advances have been made in the last few years, and the purpose of this class is to present a
 coherent framework for studying these advances.
 
