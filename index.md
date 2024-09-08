@@ -40,7 +40,7 @@ acquisition (3) case studies of locomotion, navigation and manipulation.
 This is a graduate level class, and prerequisite knowledge at the level of Deep Learning (Bishop
 & Bishop), and Reinforcement Learning (Sutton & Barto) will be assumed.
 
-**Class enrollment is capped at 45. [Here](https://docs.google.com/document/d/10Ue1Vnsc9asUhDXR-cOjPxOLiELoEtKu0GEJUaW3q4M/edit?usp=sharing) is a list of self-evaluation question for interested students to see whether they are ready for the class.**
+**Class enrollment is capped at 45. [Here](https://docs.google.com/document/d/10Ue1Vnsc9asUhDXR-cOjPxOLiELoEtKu0GEJUaW3q4M/edit?usp=sharing) is a list of self-evaluation questions for interested students to see whether they are ready for the class.**
 
 ## Course Format
 
