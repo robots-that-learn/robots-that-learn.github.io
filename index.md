@@ -38,7 +38,7 @@ acquisition (3) case studies of locomotion, navigation and manipulation.
 
 ### Prerequisites
 This is a graduate level class, and prerequisite knowledge at the level of Deep Learning (Bishop
-& Bishop), and Reinforcement Learning (Sutton & Barto) will be assumed. 
+& Bishop), and Reinforcement Learning (Sutton & Barto) will be assumed.
 
 **Class enrollment is capped at 45. [Here](https://docs.google.com/document/d/10Ue1Vnsc9asUhDXR-cOjPxOLiELoEtKu0GEJUaW3q4M/edit?usp=sharing) is a list of self-evaluation question for interested students to see whether they are ready for the class.**
 
@@ -68,6 +68,7 @@ The following schedule is a tentative assignment and will evolve in real time. W
 * Lecture 10AB (11/18) Case Studies in Navigation
 * Lecture 11AB (11/25) Case Studies in Dexterous Manipulation
 * Lecture 12AB (12/2) Long horizon planning and the role of language
+* RRR Week (12/9) Final Project Presentations
 
 ## Coursework
 
@@ -78,9 +79,9 @@ The following schedule is a tentative assignment and will evolve in real time. W
 
 ### Weekly Reading Assignment
 
-**Weekly Reading Assignment**: 
+**Weekly Reading Assignment**:
 
-**Lecture Scribing**: We will have two student scribes per lecture. Sign-up sheet [here](https://docs.google.com/spreadsheets/d/1TQzGYdRPp4Wtx0MXxJ19brMyj-wWIv6f1JznIZG42Lk/edit?usp=sharing).
+**Lecture Scribing**: Two student scribes per lecture. Sign-up sheet [here](https://docs.google.com/spreadsheets/d/1TQzGYdRPp4Wtx0MXxJ19brMyj-wWIv6f1JznIZG42Lk/edit?usp=sharing).
 
 **Midterm and Final Project**: More details to come.
 
