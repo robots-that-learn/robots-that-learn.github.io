@@ -81,7 +81,9 @@ The following schedule is a tentative assignment and will evolve in real time. W
 
 **Lecture Scribing**: For each lecture, two student scribes will organize lecture notes in LaTeX. The lecture notes should be ready by the same Friday. Sign-up sheet [here](https://docs.google.com/spreadsheets/d/1TQzGYdRPp4Wtx0MXxJ19brMyj-wWIv6f1JznIZG42Lk/edit?usp=sharing).
 
-**Midterm and Final Project**: More details to come.
+**Midterm**: About two-thirds into the semseter we will have a mid-term exam based on questions sourced from the weekly reading assignments. One 8.5”x11”, double-sided cheat sheet will be permitted.
+
+**Final Project**: Can be done in a group of 1-4. More details to come.
 
 ## Background Materials
 
