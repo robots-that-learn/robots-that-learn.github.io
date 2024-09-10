@@ -50,8 +50,8 @@ Each session consists of a two 1-hour lectures with a 10 minute break in between
 
 The following schedule is a tentative assignment and will evolve in real time. Weekly materials will be added.
 
-* Lecture 1A (9/9) Introduction
-* Lecture 1B (9/9) Biomechanics of walking and running
+* Lecture 1A (9/9) Introduction [[slides]](https://docs.google.com/presentation/d/1UKZNyoHFu8mWRt0XFhaX-5VzRanN-cjR/edit?usp=sharing&ouid=100618406782889124957&rtpof=true&sd=true)
+* Lecture 1B (9/9) Biomechanics of walking and running [[reading assignment]](https://forms.gle/5EDyPAzvSoabwEv49) [[slides]](https://docs.google.com/presentation/d/1f394PmuISnU3F_I7eluYVfl1ImPhnsZp/edit?usp=sharing&ouid=100618406782889124957&rtpof=true&sd=true)
 * Lecture 2A (9/16) Robot mechanisms - kinematics and dynamics
 * Lecture 2B (9/16) The human hand and dexterous object manipulation
 * Lecture 3A (9/23) The human hand and dexterous object manipulation
