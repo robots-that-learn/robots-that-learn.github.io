@@ -85,6 +85,11 @@ The following schedule is a tentative assignment and will evolve in real time. W
 
 **Final Project**: Can be done in a group of 1-4. More details to come.
 
+
+### ❗Assignment Deadlines
+- Weekly Reading: 23:59PM PT, the Friday after assignment release
+- Lecture Scribing: 23:59PM PT, the Friday after scribed lecture
+
 ## Background Materials
 
 * [Deep Learning (Bishop & Bishop)](https://www.bishopbook.com/)
