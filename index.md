@@ -73,19 +73,22 @@ The following schedule is a tentative assignment and will evolve in real time. W
 <details>
 <summary>Reading materials</summary>
 
-#### Lecture 1B
+Lecture 1B
+
 - T. K. Uchida and S. L. Delp. Biomechanics of movement: the science of sports, robotics, and rehabilitation. Mit Press, 2021.
+
 - P. Ramdya and A. J. Ijspeert. The neuromechanics of animal locomotion: From biology to robotics and back. Science Robotics, 8(78):eadg0279, 2023.
 (It is not expected to read the Uchida-Delp book, but we will cover a couple of chapters from it.)
 
-#### Lecture 2A
+Lecture 2A
 
 In advance of lecture 2A, students should try to familiarize themselves with how 3D rotations and translations are represented. We would like students to learn about "exponential coordinates" - how a rotation matrix is the exponential of a skew-symmetric matrix corresponding to the axis of rotation, and when rotation is accompanied by translation, we use the exponential of a twist. This formalism results in an elegant way to specify the forward kinematics of a robot using the product of matrix exponentials. The Li-Murray-Sastry textbook and the Lynch-Park textbook are good sources. You can find lectures on YouTube for Lynch-Park. I recommend the ones corresponding to Chapter 3.
 [[link]](https://www.youtube.com/watch?v=29LhXWjn7Pc&list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx&index=10)
 
-#### Lecture 2B
+Lecture 2B
 
 - Piazza, Cristina, et al. "A century of robotic hands." Annual Review of Control, Robotics, and Autonomous Systems 2.1 (2019): 1-32.
+
 - Jones, L. A. "Human hand function." (2006).
 
 </details>
