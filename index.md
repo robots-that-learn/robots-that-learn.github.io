@@ -16,7 +16,7 @@ Instructor: [Jitendra Malik](https://people.eecs.berkeley.edu/~malik)
 
 TA: [Toru Lin](https://toruowo.github.io/)
 
-### [[Zoom link]](https://berkeley.zoom.us/j/99993523785?pwd=ihiUdf7jZ3UtAMBobMc5Y5GHoOSiOu.1)
+### [[Zoom link]](https://berkeley.zoom.us/j/93691787115?pwd=822GD0Xpz9lGz7YtUhOA03gznU6ywB.1)
 
 *Note: The first two class sessions (9/9, 9/16) will be both in person and on Zoom to accommodate both enrolled and waitlisted attendees. From 9/23, the lectures will only be in person and we expect everyone to attend in person.*
 
