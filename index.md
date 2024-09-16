@@ -112,5 +112,3 @@ In advance of lecture 2A, students should try to familiarize themselves with how
 
 - Piazza, Cristina, et al. "A century of robotic hands." Annual Review of Control, Robotics, and Autonomous Systems 2.1 (2019): 1-32.
 - Jones, L. A. "Human hand function." (2006).
-
-</details>
