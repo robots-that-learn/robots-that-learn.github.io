@@ -16,11 +16,6 @@ Instructor: [Jitendra Malik](https://people.eecs.berkeley.edu/~malik)
 
 TA: [Toru Lin](https://toruowo.github.io/)
 
-### [[Zoom link]](https://berkeley.zoom.us/j/93691787115?pwd=822GD0Xpz9lGz7YtUhOA03gznU6ywB.1)
-
-*Note: The first two class sessions (9/9, 9/16) will be both in person and on Zoom to accommodate both enrolled and waitlisted attendees. From 9/23, the lectures will only be in person and we expect everyone to attend in person.*
-
-
 ## ~ Welcome from Jitendra ~
 
 Robotics has been late to the deep learning revolution compared to computer vision and natural
@@ -51,8 +46,8 @@ Each session consists of a two 1-hour lectures with a 10 minute break in between
 The following schedule is a tentative assignment and will evolve in real time. Weekly materials will be added.
 
 * Lecture 1A (9/9) Introduction [[slides]](https://docs.google.com/presentation/d/1UKZNyoHFu8mWRt0XFhaX-5VzRanN-cjR/edit?usp=sharing&ouid=100618406782889124957&rtpof=true&sd=true)
-* Lecture 1B (9/9) Biomechanics of walking and running [[reading assignment]](https://forms.gle/5EDyPAzvSoabwEv49) [[slides]](https://docs.google.com/presentation/d/1f394PmuISnU3F_I7eluYVfl1ImPhnsZp/edit?usp=sharing&ouid=100618406782889124957&rtpof=true&sd=true)
-* Lecture 2A (9/16) Robot mechanisms - kinematics and dynamics
+* Lecture 1B (9/9) Biomechanics of walking and running [[slides]](https://docs.google.com/presentation/d/1f394PmuISnU3F_I7eluYVfl1ImPhnsZp/edit?usp=sharing&ouid=100618406782889124957&rtpof=true&sd=true)
+* Lecture 2A (9/16) Robot mechanisms - kinematics and dynamics [[reading assignment]](https://forms.gle/2zMSe3yZd1P35VuQ9) [[slides]](https://docs.google.com/presentation/d/1Qy1wLVB8vfIeROXJg6NoSIredIjrc8Eu/edit?usp=sharing&ouid=100618406782889124957&rtpof=true&sd=true) [[video]](https://drive.google.com/file/d/1qtep5QVViDW7rvdXWt7DLDgbIRbYVoop/view?usp=sharing)
 * Lecture 2B (9/16) The human hand and dexterous object manipulation
 * Lecture 3A (9/23) The human hand and dexterous object manipulation
 * Lecture 3B (9/23) Proprioception and tactile perception
@@ -80,6 +75,8 @@ The following schedule is a tentative assignment and will evolve in real time. W
 **Weekly Reading Assignment**: For every weekly reading, each student should come up with 2 multiple choice questions, and supply with answers. We will send out a Google form for submission each week.
 
 **Lecture Scribing**: For each lecture, two student scribes will organize lecture notes in LaTeX. The students can decide to submit a single note together or individually; grades will be assigned based on note quality. The lecture notes should be ready by the same Friday. Sign-up sheet [here](https://docs.google.com/spreadsheets/d/1TQzGYdRPp4Wtx0MXxJ19brMyj-wWIv6f1JznIZG42Lk/edit?usp=sharing).
+
+*Note: since the lecture content does not necessarily align with lecture title, each scribe is only required to cover the time slot they have signed up for.*
 
 **Midterm**: About two-thirds into the semseter we will have a mid-term exam based on questions sourced from the weekly reading assignments. One 8.5”x11”, double-sided cheat sheet will be permitted.
 
@@ -110,5 +107,6 @@ In advance of lecture 2A, students should try to familiarize themselves with how
 
 #### Lecture 2B
 
+- Video on human hand anatomy [[link]](https://www.youtube.com/watch?v=-y69D76RdMs)
 - Piazza, Cristina, et al. "A century of robotic hands." Annual Review of Control, Robotics, and Autonomous Systems 2.1 (2019): 1-32.
 - Jones, L. A. "Human hand function." (2006).
