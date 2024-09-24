@@ -16,6 +16,8 @@ Instructor: [Jitendra Malik](https://people.eecs.berkeley.edu/~malik)
 
 TA: [Toru Lin](https://toruowo.github.io/)
 
+### [[Zoom link]](https://berkeley.zoom.us/j/93606287284?pwd=9BegdYSr7NNxc9jJsc3LRPOF65P94T.1)
+
 ## ~ Welcome from Jitendra ~
 
 Robotics has been late to the deep learning revolution compared to computer vision and natural
