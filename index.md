@@ -47,10 +47,10 @@ The following schedule is a tentative assignment and will evolve in real time. W
 
 * Lecture 1A (9/9) Introduction [[slides]](https://docs.google.com/presentation/d/1UKZNyoHFu8mWRt0XFhaX-5VzRanN-cjR/edit?usp=sharing&ouid=100618406782889124957&rtpof=true&sd=true)
 * Lecture 1B (9/9) Biomechanics of walking and running [[slides]](https://docs.google.com/presentation/d/1f394PmuISnU3F_I7eluYVfl1ImPhnsZp/edit?usp=sharing&ouid=100618406782889124957&rtpof=true&sd=true)
-* Lecture 2A (9/16) Robot mechanisms - kinematics and dynamics [[reading assignment]](https://forms.gle/2zMSe3yZd1P35VuQ9) [[slides]](https://docs.google.com/presentation/d/1Qy1wLVB8vfIeROXJg6NoSIredIjrc8Eu/edit?usp=sharing&ouid=100618406782889124957&rtpof=true&sd=true) [[video]](https://drive.google.com/file/d/1qtep5QVViDW7rvdXWt7DLDgbIRbYVoop/view?usp=sharing)
+* Lecture 2A (9/16) Robot mechanisms - kinematics and dynamics [[slides]](https://docs.google.com/presentation/d/1Qy1wLVB8vfIeROXJg6NoSIredIjrc8Eu/edit?usp=sharing&ouid=100618406782889124957&rtpof=true&sd=true) [[video]](https://drive.google.com/file/d/1qtep5QVViDW7rvdXWt7DLDgbIRbYVoop/view?usp=sharing)
 * Lecture 2B (9/16) The human hand and dexterous object manipulation
-* Lecture 3A (9/23) The human hand and dexterous object manipulation
-* Lecture 3B (9/23) Proprioception and tactile perception
+* Lecture 3A (9/23) Robot hands [[slides]](https://docs.google.com/presentation/d/13oX9ucOYo4WkWkm9LX7lGhQKiZnyoHZV/edit?usp=sharing&ouid=100618406782889124957&rtpof=true&sd=true) [[video]](https://drive.google.com/file/d/12V3xa6jonkklXauQCIbwml4EQufg8E0_/view?usp=sharing)
+* Lecture 3B (9/23) Proprioception and tactile perception [[slide]](https://docs.google.com/presentation/d/1RNP3zXqSS9H71bPs6zg-PV4iFkSwhrn4/edit?usp=sharing&ouid=100618406782889124957&rtpof=true&sd=true) [[video]](https://drive.google.com/file/d/12V3xa6jonkklXauQCIbwml4EQufg8E0_/view?usp=sharing)
 * Lecture 4A (9/30) Vision for action
 * Lecture 4B (9/30) Computational neuroscience perspective on prediction and control
 * Lecture 5A (10/7) The developmental perspective on motor control
@@ -64,6 +64,8 @@ The following schedule is a tentative assignment and will evolve in real time. W
 * Lecture 11AB (11/25) Case Studies in Dexterous Manipulation
 * Lecture 12AB (12/2) Long horizon planning and the role of language
 * RRR Week (12/9) Final Project Presentations
+
+Please see below ("Reading Materials") for link to reading assignment submission form.
 
 ## Coursework
 
@@ -94,11 +96,18 @@ The following schedule is a tentative assignment and will evolve in real time. W
 
 ## Reading materials
 
+### Lecture 1
+
 #### Lecture 1B
 
 - T. K. Uchida and S. L. Delp. Biomechanics of movement: the science of sports, robotics, and rehabilitation. Mit Press, 2021.
-- P. Ramdya and A. J. Ijspeert. The neuromechanics of animal locomotion: From biology to robotics and back. Science Robotics, 8(78):eadg0279, 2023.
+- P. Ramdya and A. J. Ijspeert. The neuromechanics of animal locomotion: From biology to robotics and back. Science Robotics, 8(78):eadg0279, 2023. [[PDF]](resources/Locomotion-biology-robotics-scirobotics.pdf)
+
 (It is not expected to read the Uchida-Delp book, but we will cover a couple of chapters from it.)
+
+### Lecture 2
+
+[[Reading Assignment Submission Form]](https://forms.gle/2zMSe3yZd1P35VuQ9)
 
 #### Lecture 2A
 
@@ -108,5 +117,17 @@ In advance of lecture 2A, students should try to familiarize themselves with how
 #### Lecture 2B
 
 - Video on human hand anatomy [[link]](https://www.youtube.com/watch?v=-y69D76RdMs)
-- Piazza, Cristina, et al. "A century of robotic hands." Annual Review of Control, Robotics, and Autonomous Systems 2.1 (2019): 1-32.
-- Jones, L. A. "Human hand function." (2006).
+
+### Lecture 3
+
+[[Reading Assignment Submission Form]](https://forms.gle/XhSEZDLZrH7QNemg7)
+
+#### Lecture 3A
+
+- Piazza, Cristina, et al. "A century of robotic hands." Annual Review of Control, Robotics, and Autonomous Systems 2.1 (2019): 1-32. [[PDF]](resources/century-of-robotic-hands.pdf)
+- [LEAP Hand](https://leaphand.com/), [LEAP Hand v2](https://openreview.net/forum?id=eQomRzRZEP)
+
+#### Lecture 3B
+
+- Jones, L. A. "Human hand function." (2006). [[PDF]](resources/Human_Hand_Function.pdf)
+- Esther P Gardner, "Touch" (2010). [[PDF]](resource/Gardner-ELS2010.pdf)
