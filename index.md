@@ -132,4 +132,4 @@ In advance of lecture 2A, students should try to familiarize themselves with how
 #### Lecture 3B
 
 - Jones, L. A. "Human hand function." (2006). [[PDF]](resources/Human_Hand_Function.pdf)
-- Esther P Gardner, "Touch" (2010). [[PDF]](resource/Gardner-ELS2010.pdf)
+- Esther P Gardner, "Touch" (2010). [[PDF]](resources/Gardner-ELS2010.pdf)
