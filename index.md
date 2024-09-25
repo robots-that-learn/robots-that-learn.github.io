@@ -54,9 +54,9 @@ The following schedule is a tentative assignment and will evolve in real time. W
 * Lecture 3A (9/23) Robot hands [[slides]](https://docs.google.com/presentation/d/13oX9ucOYo4WkWkm9LX7lGhQKiZnyoHZV/edit?usp=sharing&ouid=100618406782889124957&rtpof=true&sd=true) [[video]](https://drive.google.com/file/d/12V3xa6jonkklXauQCIbwml4EQufg8E0_/view?usp=sharing)
 * Lecture 3B (9/23) Proprioception and tactile perception [[slide]](https://docs.google.com/presentation/d/1RNP3zXqSS9H71bPs6zg-PV4iFkSwhrn4/edit?usp=sharing&ouid=100618406782889124957&rtpof=true&sd=true) [[video]](https://drive.google.com/file/d/12V3xa6jonkklXauQCIbwml4EQufg8E0_/view?usp=sharing)
 * Lecture 4A (9/30) Vision for action
-* Lecture 4B (9/30) Computational neuroscience perspective on prediction and control
-* Lecture 5A (10/7) The developmental perspective on motor control
-* Lecture 5B (10/7) Classical robotics approaches- MPC, SLAM, TAMP
+* Lecture 4B (9/30) The developmental perspective on motor control
+* Lecture 5A (10/7) Classical robotics approaches- MPC, SLAM, TAMP
+* Lecture 5B (10/7) Computational neuroscience perspective on prediction and control
 * Lecture 6AB (10/14) Reinforcement Learning
 * Lecture 7AB (10/21) Behavior cloning
 * Lecture 8AB (10/28) Visual Imitation
