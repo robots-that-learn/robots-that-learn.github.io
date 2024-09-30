@@ -16,7 +16,7 @@ Instructor: [Jitendra Malik](https://people.eecs.berkeley.edu/~malik)
 
 TA: [Toru Lin](https://toruowo.github.io/)
 
-### [[Zoom link]](https://berkeley.zoom.us/j/93606287284?pwd=9BegdYSr7NNxc9jJsc3LRPOF65P94T.1)
+### [[Zoom link]](https://berkeley.zoom.us/j/92472805220?pwd=zzCeqo78fcf2nDiTQ0a6QgMhe6HZym.1)
 
 ## ~ Welcome from Jitendra ~
 
