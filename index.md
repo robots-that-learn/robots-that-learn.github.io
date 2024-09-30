@@ -133,3 +133,40 @@ In advance of lecture 2A, students should try to familiarize themselves with how
 
 - Jones, L. A. "Human hand function." (2006). [[PDF]](resources/Human_Hand_Function.pdf)
 - Esther P Gardner, "Touch" (2010). [[PDF]](resources/Gardner-ELS2010.pdf)
+
+
+### Lecture 4
+
+[[Reading Assignment Submission Form]](https://forms.gle/c6MEzrEdSyzVqcpx9)
+
+### Lecture 5
+
+[[Reading Assignment Submission Form]](https://forms.gle/58JgvRAUpsLXgS8e7)
+
+### Lecture 6
+
+[[Reading Assignment Submission Form]](https://forms.gle/misbrav9rGMuK4rX9)
+
+### Lecture 7
+
+[[Reading Assignment Submission Form]](https://forms.gle/a7ZeFuxKT4MQnYXG6)
+
+### Lecture 8
+
+[[Reading Assignment Submission Form]](https://forms.gle/ZXGXN9vCNKV9vzgY6)
+
+### Lecture 9
+
+[[Reading Assignment Submission Form]](https://forms.gle/DwWDEcRkyVcyPZPo6)
+
+### Lecture 10
+
+[[Reading Assignment Submission Form]](https://forms.gle/BNdnEAgWiLkbNNzz7)
+
+### Lecture 11
+
+[[Reading Assignment Submission Form]](https://forms.gle/GULLmqVsMu8ArDLx8)
+
+### Lecture 12
+
+[[Reading Assignment Submission Form]](https://forms.gle/Wd5qUdopPefZmKfy9)
