@@ -53,8 +53,8 @@ The following schedule is a tentative assignment and will evolve in real time. W
 * Lecture 2B (9/16) The human hand and dexterous object manipulation
 * Lecture 3A (9/23) Robot hands [[slides]](https://docs.google.com/presentation/d/13oX9ucOYo4WkWkm9LX7lGhQKiZnyoHZV/edit?usp=sharing&ouid=100618406782889124957&rtpof=true&sd=true) [[video]](https://drive.google.com/file/d/12V3xa6jonkklXauQCIbwml4EQufg8E0_/view?usp=sharing)
 * Lecture 3B (9/23) Proprioception and tactile perception [[slide]](https://docs.google.com/presentation/d/1RNP3zXqSS9H71bPs6zg-PV4iFkSwhrn4/edit?usp=sharing&ouid=100618406782889124957&rtpof=true&sd=true) [[video]](https://drive.google.com/file/d/12V3xa6jonkklXauQCIbwml4EQufg8E0_/view?usp=sharing)
-* Lecture 4A (9/30) Vision for action
-* Lecture 4B (9/30) The developmental perspective on motor control
+* Lecture 4A (9/30) Vision for action [[slide]](https://drive.google.com/file/d/1Ly9pzqWH_R6SB9N6ZqCpiGK5TrYT0KnR/view?usp=sharing) [[video]](https://drive.google.com/file/d/1UwiBsTV5JqMENDkKWr0DlVFz3tcjgluW/view?usp=sharing)
+* Lecture 4B (9/30) The developmental perspective on motor control [[slide]](https://drive.google.com/file/d/1_6jJp2tpgMV9Kobwbgp2jkpU9iS0c_sZ/view?usp=sharing) [[video]](https://drive.google.com/file/d/1R5TzzT34Em6ToH0-Kcd2jDnuxZh4Fs2e/view?usp=sharing)
 * Lecture 5A (10/7) Classical robotics approaches- MPC, SLAM, TAMP
 * Lecture 5B (10/7) Computational neuroscience perspective on prediction and control
 * Lecture 6AB (10/14) Reinforcement Learning
@@ -138,6 +138,15 @@ In advance of lecture 2A, students should try to familiarize themselves with how
 ### Lecture 4
 
 [[Reading Assignment Submission Form]](https://forms.gle/c6MEzrEdSyzVqcpx9)
+
+#### Lecture 4A
+
+- Land, M et al. “The roles of vision and eye movements in the control of activities of daily living.” Perception vol. 28,11 (1999): 1311-28. doi:10.1068/p2935 [[PDF]](resources/teamaking-land-mennie-rusted-1999.pdf)
+
+#### Lecture 4B
+
+- Loquercio, Antonio, Ashish Kumar, and Jitendra Malik. "Learning visual locomotion with cross-modal supervision." 2023 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2023. [[PDF]](resources/ICRA23_Learning_to_see_by_walking_blind.pdf)
+- Smith, Linda B. and Michael Gasser. “The Development of Embodied Cognition: Six Lessons from Babies.” Artificial Life 11 (2005): 13-29. [[PDF]](resources/6_lessons.pdf)
 
 ### Lecture 5
 
