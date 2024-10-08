@@ -55,8 +55,8 @@ The following schedule is a tentative assignment and will evolve in real time. W
 * Lecture 3B (9/23) Proprioception and tactile perception [[slide]](https://docs.google.com/presentation/d/1RNP3zXqSS9H71bPs6zg-PV4iFkSwhrn4/edit?usp=sharing&ouid=100618406782889124957&rtpof=true&sd=true) [[video]](https://drive.google.com/file/d/12V3xa6jonkklXauQCIbwml4EQufg8E0_/view?usp=sharing)
 * Lecture 4A (9/30) Vision for action [[slide]](https://drive.google.com/file/d/1Ly9pzqWH_R6SB9N6ZqCpiGK5TrYT0KnR/view?usp=sharing) [[video]](https://drive.google.com/file/d/1UwiBsTV5JqMENDkKWr0DlVFz3tcjgluW/view?usp=sharing)
 * Lecture 4B (9/30) The developmental perspective on motor control [[slide]](https://drive.google.com/file/d/1_6jJp2tpgMV9Kobwbgp2jkpU9iS0c_sZ/view?usp=sharing) [[video]](https://drive.google.com/file/d/1R5TzzT34Em6ToH0-Kcd2jDnuxZh4Fs2e/view?usp=sharing)
-* Lecture 5A (10/7) Classical robotics approaches- MPC, SLAM, TAMP
-* Lecture 5B (10/7) Computational neuroscience perspective on prediction and control
+* Lecture 5A (10/7) Robot dynamics, control, and motion planning [[video]](https://drive.google.com/file/d/1Lg_r7QsSusHigRSUO1e2zCRGOUsTmQvC/view?usp=sharing)
+* Lecture 5B (10/7) Computational neuroscience perspective on prediction and control [[video]](https://drive.google.com/file/d/1fofpZDHeFhAp3blPq54sZD1RGyNSZRRW/view?usp=sharing)
 * Lecture 6AB (10/14) Reinforcement Learning
 * Lecture 7AB (10/21) Behavior cloning
 * Lecture 8AB (10/28) Visual Imitation
@@ -151,6 +151,9 @@ In advance of lecture 2A, students should try to familiarize themselves with how
 ### Lecture 5
 
 [[Reading Assignment Submission Form]](https://forms.gle/58JgvRAUpsLXgS8e7)
+
+- Kawato M. Internal models for motor control and trajectory planning. Curr Opin Neurobiol. 1999 Dec;9(6):718-27. doi: 10.1016/s0959-4388(99)00028-8. PMID: 10607637. [[PDF]](resources/Kawato-internal-models.pdf)
+- Flanagan JR, Bowman MC, Johansson RS. Control strategies in object manipulation tasks. Curr Opin Neurobiol. 2006 Dec;16(6):650-9. doi: 10.1016/j.conb.2006.10.005. Epub 2006 Nov 3. PMID: 17084619. [[PDF]](resources/FlanaganBowmanJohansson06.pdf)
 
 ### Lecture 6
 
