@@ -73,7 +73,7 @@ Please see below ("Reading Materials") for link to reading assignment submission
 
 - 10% Weekly Reading Assignment
 - 10% Lecture Scribing
-- 30% Midterm
+- 30% Midterm (11/18, first hour of the class)
 - 50% Final Project
 
 **Weekly Reading Assignment**: For every weekly reading, each student should come up with 2 multiple choice questions, and supply with answers. We will send out a Google form for submission each week.
