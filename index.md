@@ -58,7 +58,7 @@ The following schedule is a tentative assignment and will evolve in real time. W
 * Lecture 5A (10/7) Robot dynamics, control, and motion planning [[slide]](https://drive.google.com/file/d/1zuBwmd1igHun76r41DAyx2BOw3qmmp9P/view?usp=sharing) [[video]](https://drive.google.com/file/d/1Lg_r7QsSusHigRSUO1e2zCRGOUsTmQvC/view?usp=sharing)
 * Lecture 5B (10/7) Computational neuroscience perspective on prediction and control [[slide]](https://drive.google.com/file/d/1Pp8oCOdSTGlImExUWYk4AVVyOJwR1KOH/view?usp=sharing) [[video]](https://drive.google.com/file/d/1fofpZDHeFhAp3blPq54sZD1RGyNSZRRW/view?usp=sharing)
 * Lecture 6AB (10/14) Reinforcement Learning [[slide]](https://docs.google.com/presentation/d/1UnrXmJvnByo8epKVNVYzVRehwxumnfwh/edit?usp=sharing&ouid=100618406782889124957&rtpof=true&sd=true) [[videoA]](https://drive.google.com/file/d/16yps-U3OyD1I2YWZVHYZwNc9LceEx26V/view?usp=sharing) [[videoB]](https://drive.google.com/file/d/1B0OFwxpp71xdy_0l96lC7-oVn-27Mwwg/view?usp=sharing)
-* Lecture 7AB (10/21) Behavior cloning
+* Lecture 7AB (10/21) Behavior cloning [[slide]](https://docs.google.com/presentation/d/1JoCCHD6VXlSPsoYgHrXbrdpnoW4j0_wM/edit?usp=sharing&ouid=100618406782889124957&rtpof=true&sd=true) [[video]](https://drive.google.com/file/d/1UfsexpwcaTMvXIo_c7grZsJyTFk-exrs/view?usp=sharing)
 * Lecture 8AB (10/28) Visual Imitation
 * Lecture 9AB (11/04) Case Studies in Locomotion
 * Veterans Day (11/11)
@@ -165,6 +165,8 @@ In advance of lecture 2A, students should try to familiarize themselves with how
 ### Lecture 7
 
 [[Reading Assignment Submission Form]](https://forms.gle/a7ZeFuxKT4MQnYXG6)
+
+- Diffusion Policy [[Website]](https://diffusion-policy.cs.columbia.edu/) [[PDF]](resources/diffusion_policy_2023.pdf)
 
 ### Lecture 8
 
