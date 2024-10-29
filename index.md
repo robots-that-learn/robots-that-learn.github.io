@@ -172,6 +172,12 @@ In advance of lecture 2A, students should try to familiarize themselves with how
 
 [[Reading Assignment Submission Form]](https://forms.gle/ZXGXN9vCNKV9vzgY6)
 
+- Shaw K, Bahl S, Sivakumar A, Kannan A, Pathak D. Learning dexterity from human hand motion in internet videos. The International Journal of Robotics Research. 2024;43(4):513-532. doi:10.1177/02783649241227559 [[PDF]](resources/shaw-et-al-2024-learning-dexterity-from-human-hand-motion-in-internet-videos.pdf)
+
+- Goyal, Mohit, et al. "Human hands as probes for interactive object understanding." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022. [[PDF]](resources/Goyal_Human_Hands_As_Probes_for_Interactive_Object_Understanding_CVPR_2022_paper.pdf)
+
+- Kumar, Ashish, Saurabh Gupta, and Jitendra Malik. "Learning navigation subroutines from egocentric videos." Conference on Robot Learning. PMLR, 2020. [[PDF]](resources/ashish_kumar19.pdf)
+
 ### Lecture 9
 
 [[Reading Assignment Submission Form]](https://forms.gle/DwWDEcRkyVcyPZPo6)
