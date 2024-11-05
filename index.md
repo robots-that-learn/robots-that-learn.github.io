@@ -60,7 +60,7 @@ The following schedule is a tentative assignment and will evolve in real time. W
 * Lecture 6AB (10/14) Reinforcement Learning [[slides]](https://docs.google.com/presentation/d/1UnrXmJvnByo8epKVNVYzVRehwxumnfwh/edit?usp=sharing&ouid=100618406782889124957&rtpof=true&sd=true) [[videoA]](https://drive.google.com/file/d/16yps-U3OyD1I2YWZVHYZwNc9LceEx26V/view?usp=sharing) [[videoB]](https://drive.google.com/file/d/1B0OFwxpp71xdy_0l96lC7-oVn-27Mwwg/view?usp=sharing)
 * Lecture 7AB (10/21) Behavior cloning [[slides]](https://docs.google.com/presentation/d/1JoCCHD6VXlSPsoYgHrXbrdpnoW4j0_wM/edit?usp=sharing&ouid=100618406782889124957&rtpof=true&sd=true) [[video]](https://drive.google.com/file/d/1UfsexpwcaTMvXIo_c7grZsJyTFk-exrs/view?usp=sharing)
 * Lecture 8AB (10/28) Visual Imitation [[slideA]](https://drive.google.com/file/d/1hZgefKjJ2ljLC3DNnJ7wtoo68K4N9G7N/view?usp=sharing) [[slideB]](https://drive.google.com/file/d/1QYUqOcxGc7XkCX0kWoblHVrPG31bq6vV/view?usp=sharing) [[video]](https://drive.google.com/file/d/13tjIM89D61HAK5s-r1kcNV7hDtmleqJq/view?usp=sharing)
-* Lecture 9AB (11/04) Case Studies in Locomotion
+* Lecture 9AB (11/04) Case Studies in Locomotion [[video]](https://drive.google.com/file/d/1sLe0eCY6vYoRmMLBDPS5KU0yo3Arbd-e/view?usp=sharing)
 * Veterans Day (11/11)
 * Lecture 10AB (11/18) Case Studies in Navigation
 * Lecture 11AB (11/25) Case Studies in Dexterous Manipulation
