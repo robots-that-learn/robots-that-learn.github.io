@@ -16,6 +16,8 @@ Instructor: [Jitendra Malik](https://people.eecs.berkeley.edu/~malik)
 
 TA: [Toru Lin](https://toruowo.github.io/)
 
+### [[Midterm Exam link]](https://forms.gle/idQg8gG8vama29s3A)
+
 ### [[Zoom link]](https://berkeley.zoom.us/j/91599203009?pwd=HVA7Z2CDVIp5ajbLKVEFdLpKLIebbT.1)
 
 ## ~ Welcome from Jitendra ~
