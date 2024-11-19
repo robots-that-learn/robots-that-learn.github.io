@@ -62,7 +62,7 @@ The following schedule is a tentative assignment and will evolve in real time. W
 * Lecture 8AB (10/28) Visual Imitation [[slideA]](https://drive.google.com/file/d/1hZgefKjJ2ljLC3DNnJ7wtoo68K4N9G7N/view?usp=sharing) [[slideB]](https://drive.google.com/file/d/1QYUqOcxGc7XkCX0kWoblHVrPG31bq6vV/view?usp=sharing) [[video]](https://drive.google.com/file/d/13tjIM89D61HAK5s-r1kcNV7hDtmleqJq/view?usp=sharing)
 * Lecture 9AB (11/04) Case Studies in Locomotion [[slideA]](https://drive.google.com/file/d/1-HrfGShe2l8HUHUNvcdQ11rQ_WDlmPnV/view?usp=sharing) [[slideB]](https://drive.google.com/file/d/1rOHWD1HHP5b55kmV7SjTEnbI4gnNADQE/view?usp=sharing) [[video]](https://drive.google.com/file/d/1sLe0eCY6vYoRmMLBDPS5KU0yo3Arbd-e/view?usp=sharing)
 * Veterans Day (11/11)
-* Lecture 10AB (11/18) Case Studies in Navigation [[video]](https://drive.google.com/file/d/14UEuvn4osdItFpBxMMLYrxNJoxk8mCRd/view?usp=sharing)
+* Lecture 10AB (11/18) Case Studies in Navigation [[slideA]](https://drive.google.com/file/d/1Jr9EFvF-2zj2ecvb-z8_hPKk7J-g0UQt/view?usp=sharing) [[slideB]](https://drive.google.com/file/d/1OGi_IKK1EOKl50d-xjXetofiXPCTF4c-/view?usp=sharing) [[video]](https://drive.google.com/file/d/14UEuvn4osdItFpBxMMLYrxNJoxk8mCRd/view?usp=sharing)
 * Lecture 11AB (11/25) Case Studies in Dexterous Manipulation
 * Lecture 12AB (12/2) Long horizon planning and the role of language
 * RRR Week (12/9) Final Project Presentations
@@ -200,6 +200,8 @@ In advance of lecture 2A, students should try to familiarize themselves with how
 ### Lecture 10
 
 [[Reading Assignment Submission Form]](https://forms.gle/BNdnEAgWiLkbNNzz7)
+
+- Chang, Matthew, et al. "Goat: Go to any thing." arXiv preprint arXiv:2311.06430 (2023). [[PDF]](resources/59_goat_go_to_any_thing.pdf)
 
 ### Lecture 11
 
