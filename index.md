@@ -63,9 +63,9 @@ The following schedule is a tentative assignment and will evolve in real time. W
 * Lecture 9AB (11/04) Case Studies in Locomotion [[slideA]](https://drive.google.com/file/d/1-HrfGShe2l8HUHUNvcdQ11rQ_WDlmPnV/view?usp=sharing) [[slideB]](https://drive.google.com/file/d/1rOHWD1HHP5b55kmV7SjTEnbI4gnNADQE/view?usp=sharing) [[video]](https://drive.google.com/file/d/1sLe0eCY6vYoRmMLBDPS5KU0yo3Arbd-e/view?usp=sharing)
 * Veterans Day (11/11)
 * Lecture 10AB (11/18) Case Studies in Navigation [[slideA]](https://drive.google.com/file/d/1Jr9EFvF-2zj2ecvb-z8_hPKk7J-g0UQt/view?usp=sharing) [[slideB]](https://drive.google.com/file/d/1OGi_IKK1EOKl50d-xjXetofiXPCTF4c-/view?usp=sharing) [[video]](https://drive.google.com/file/d/14UEuvn4osdItFpBxMMLYrxNJoxk8mCRd/view?usp=sharing)
-* Lecture 11AB (11/25) Case Studies in Dexterous Manipulation
+* Lecture 11AB (11/25) Case Studies in Dexterous Manipulation [[slides]](https://docs.google.com/presentation/d/12MNCNT46vh17VtX4UeTdGE8uAEdGLQme/edit?usp=sharing&ouid=100618406782889124957&rtpof=true&sd=true) [[videoA]](https://drive.google.com/file/d/1XDS9uYatX8ovMkgqsQHpYF9oFoq1kcTC/view?usp=sharing) [[videoB]](https://drive.google.com/file/d/10RC7-EtBiYy0w6AB5V-lYyhARdlAO7Co/view?usp=sharing)
 * Lecture 12AB (12/2) Long horizon planning and the role of language
-* RRR Week (12/9) Final Project Presentations
+* RRR Week (12/9) Final Project Presentations [[Sign-Up Sheet]](https://docs.google.com/spreadsheets/d/1yJInvp_u2cHMD9rNEXAdKRmEXRk5KzjYXtdGxVMAfgA/edit?usp=sharing)
 
 Please see below ("Reading Materials") for link to reading assignment submission form.
 
@@ -206,6 +206,13 @@ In advance of lecture 2A, students should try to familiarize themselves with how
 ### Lecture 11
 
 [[Reading Assignment Submission Form]](https://forms.gle/GULLmqVsMu8ArDLx8)
+
+- Zhao, Tony Z., et al. "Learning fine-grained bimanual manipulation with low-cost hardware." arXiv preprint arXiv:2304.13705 (2023). [[PDF]](resources/Aloha23.pdf)
+
+- Zhao, Tony Z., et al. "Aloha unleashed: A simple recipe for robot dexterity." arXiv preprint arXiv:2410.13126 (2024). [[PDF]](resources/447_ALOHA_Unleashed_A_Simple_R.pdf)
+
+- Dalal, Murtaza, et al. "Local Policies Enable Zero-shot Long-horizon Manipulation." arXiv preprint arXiv:2410.22332 (2024). [[PDF]](resources/Dalal24.pdf)
+
 
 ### Lecture 12
 
