@@ -90,7 +90,7 @@ Please see below ("Reading Materials") for link to reading assignment submission
 
 **Project Proposal**: To keep track of your final project progress, please submit a 1 page project proposal using [this](https://docs.google.com/document/d/13wMRXYPVz0wzIJRM1M3s06glfL8gYmlqSaTy6W1D2iY/edit?usp=sharing) template by EOD 11/19 (the day after midterm). Please submit through a Google doc shared with the course instructor and TA, so we can give feedback and suggestions. Note that this proposal will not be graded.
 
-**Project Presentation**: We will have the final project presentations on 12/9 during our regular class time. This will serve as the most important basis for grading.
+**Project Presentation**: We will have the final project presentations on 12/9 during our regular class time (starting at 3:10pm). Due to the large number of projects we have, every group will have 5 minutes to present (no Q&A). This will serve as the most important basis for grading.
 
 **Project Report**: The final project report will be due by EOD 12/13. Please use [CoRL 2024 format](https://drive.google.com/file/d/1I5OcBFBqK4UA10Mj6Ez4gCIqmOEh3MH6/view) for the project report, with a maximum of 4 pages. We would like you to focus on the problem setting, why it matters and what's interesting/novel about it, your approach, your results, analysis of results, limitations, and future directions. Cite and briefly survey prior work as appropriate but don't re-write prior work when not directly relevant to understanding your approach. References will not be counted against the 4 pages.
 
