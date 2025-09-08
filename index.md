@@ -20,6 +20,8 @@ TA: [Toru Lin](https://toruowo.github.io/)
 
 ### [[Course Notes]](https://drive.google.com/file/d/1UJ2yMrHnMR04xJ8kAecsWd9dhGicFahb/view?usp=sharing)
 
+### [[(BACKUP) All Slides & Course Notes]](https://drive.google.com/file/d/1xVJPowbvqQWjAKmL-_9oviynx-_F3Cm5/view?usp=sharing)
+
 ## ~ Welcome from Jitendra ~
 
 Robotics has been late to the deep learning revolution compared to computer vision and natural
