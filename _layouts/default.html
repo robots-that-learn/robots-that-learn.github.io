@@ -5,11 +5,40 @@
 
   <body>
 
+    <div class="semester-nav">
+      <div class="wrapper">
+        <div class="dropdown">
+          <button class="dropdown-btn">
+            <span class="dropdown-label">Semester:</span>
+            <span class="dropdown-current" id="current-semester">Spring 2026</span>
+            <span class="dropdown-arrow">&#9662;</span>
+          </button>
+          <div class="dropdown-content">
+            <a href="{{ site.baseurl }}/" class="semester-link" data-semester="Spring 2026">Spring 2026 (Current)</a>
+            <a href="{{ site.baseurl }}/fall2024" class="semester-link" data-semester="Fall 2024">Fall 2024</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <div class="page-content">
       <div class="wrapper">
         {{ content }}
       </div>
     </div>
+
+    <script>
+      // Update dropdown to show current semester based on URL
+      document.addEventListener('DOMContentLoaded', function() {
+        var path = window.location.pathname;
+        var currentText = document.getElementById('current-semester');
+        if (path.includes('fall2024')) {
+          currentText.textContent = 'Fall 2024';
+        } else {
+          currentText.textContent = 'Spring 2026';
+        }
+      });
+    </script>
 
   </body>
 
