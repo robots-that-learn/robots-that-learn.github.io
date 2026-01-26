@@ -119,6 +119,7 @@ In advance of lecture 2A, students should try to familiarize themselves with how
 
 - Video on human hand anatomy [[link]](https://www.youtube.com/watch?v=-y69D76RdMs)
 
+<!--
 ### Lecture 3
 
 #### Lecture 3A
@@ -185,3 +186,4 @@ In advance of lecture 2A, students should try to familiarize themselves with how
 - Zhao, Tony Z., et al. "Aloha unleashed: A simple recipe for robot dexterity." arXiv preprint arXiv:2410.13126 (2024). [[PDF]](resources/447_ALOHA_Unleashed_A_Simple_R.pdf)
 
 - Dalal, Murtaza, et al. "Local Policies Enable Zero-shot Long-horizon Manipulation." arXiv preprint arXiv:2410.22332 (2024). [[PDF]](resources/Dalal24.pdf)
+-->
