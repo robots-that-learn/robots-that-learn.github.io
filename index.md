@@ -41,11 +41,10 @@ Each session consists of a two 1-hour lectures with a 10 minute break in between
 
 The following schedule is a tentative assignment and will evolve in real time. Weekly materials will be added.
 
-* Lecture 1A (1/26) Introduction
-* Lecture 1B (1/26) Biomechanics of walking and running
-* Lecture 2A (2/2) Robot mechanisms - kinematics and dynamics
-* Lecture 2B (2/2) The human hand and dexterous object manipulation
-* Lecture 3A (2/9) Robot hands
+* Lecture 1 (1/26) Introduction
+* Lecture 2A (2/2) Biomechanics of walking and running
+* Lecture 2B (2/2) Robot mechanisms - kinematics and dynamics
+* Lecture 3A (2/9) The human hand and dexterous object manipulation + Robot hands
 * Lecture 3B (2/9) Proprioception and tactile perception
 * Lecture 4A (2/23) Vision for action
 * Lecture 4B (2/23) The developmental perspective on motor control
@@ -100,30 +99,28 @@ Please see below ("Reading Materials") for reading assignments.
 ## Reading materials
 
 ### Lecture 1
+N/A
 
-#### Lecture 1B
+### Lecture 2
+
+#### Lecture 2A
 
 - T. K. Uchida and S. L. Delp. Biomechanics of movement: the science of sports, robotics, and rehabilitation. Mit Press, 2021.
 - P. Ramdya and A. J. Ijspeert. The neuromechanics of animal locomotion: From biology to robotics and back. Science Robotics, 8(78):eadg0279, 2023. [[PDF]](resources/Locomotion-biology-robotics-scirobotics.pdf)
 
 (It is not expected to read the Uchida-Delp book, but we will cover a couple of chapters from it.)
 
-### Lecture 2
-
-#### Lecture 2A
-
-In advance of lecture 2A, students should try to familiarize themselves with how 3D rotations and translations are represented. We would like students to learn about "exponential coordinates" - how a rotation matrix is the exponential of a skew-symmetric matrix corresponding to the axis of rotation, and when rotation is accompanied by translation, we use the exponential of a twist. This formalism results in an elegant way to specify the forward kinematics of a robot using the product of matrix exponentials. The Li-Murray-Sastry textbook and the Lynch-Park textbook are good sources. You can find lectures on YouTube for Lynch-Park. I recommend the ones corresponding to Chapter 3.
-[[link]](https://www.youtube.com/watch?v=29LhXWjn7Pc&list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx&index=10)
-
 #### Lecture 2B
 
-- Video on human hand anatomy [[link]](https://www.youtube.com/watch?v=-y69D76RdMs)
+In advance of lecture 2B, students should try to familiarize themselves with how 3D rotations and translations are represented. We would like students to learn about "exponential coordinates" - how a rotation matrix is the exponential of a skew-symmetric matrix corresponding to the axis of rotation, and when rotation is accompanied by translation, we use the exponential of a twist. This formalism results in an elegant way to specify the forward kinematics of a robot using the product of matrix exponentials. The Li-Murray-Sastry textbook and the Lynch-Park textbook are good sources. You can find lectures on YouTube for Lynch-Park. I recommend the ones corresponding to Chapter 3.
+[[link]](https://www.youtube.com/watch?v=29LhXWjn7Pc&list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx&index=10)
 
 <!--
 ### Lecture 3
 
 #### Lecture 3A
 
+- Video on human hand anatomy [[link]](https://www.youtube.com/watch?v=-y69D76RdMs)
 - Piazza, Cristina, et al. "A century of robotic hands." Annual Review of Control, Robotics, and Autonomous Systems 2.1 (2019): 1-32. [[PDF]](resources/century-of-robotic-hands.pdf)
 - [LEAP Hand](https://leaphand.com/), [LEAP Hand v2](https://openreview.net/forum?id=eQomRzRZEP)
 
