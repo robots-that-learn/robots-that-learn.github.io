@@ -46,10 +46,10 @@ The following schedule is a tentative assignment and will evolve in real time. W
 * Lecture 2B (2/2) Robot mechanisms - kinematics and dynamics
 * Lecture 3A (2/9) The human hand and dexterous object manipulation + Robot hands
 * Lecture 3B (2/9) Proprioception and tactile perception
-* Lecture 4A (2/23) Vision for action
-* Lecture 4B (2/23) The developmental perspective on motor control
-* Lecture 5A (3/2) Robot dynamics, control, and motion planning
-* Lecture 5B (3/2) Computational neuroscience perspective on prediction and control
+* Lecture 4A (2/23) The developmental perspective on motor control
+* Lecture 4B (2/23) Robot dynamics, control, and motion planning
+* Lecture 5A (3/2) Computational neuroscience perspective on prediction and control
+* Lecture 5B (3/2) Video World Models
 * Lecture 6AB (3/9) Reinforcement Learning
 * Lecture 7AB (3/16) Behavior cloning
 * Lecture 8AB (3/30) Visual Imitation
