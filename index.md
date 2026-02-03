@@ -103,6 +103,8 @@ N/A
 
 ### Lecture 2
 
+[[Reading Assignment Submission Form]](https://forms.gle/FXTHKNBfcWZshCHn8)
+
 #### Lecture 2A
 
 - T. K. Uchida and S. L. Delp. Biomechanics of movement: the science of sports, robotics, and rehabilitation. Mit Press, 2021.
