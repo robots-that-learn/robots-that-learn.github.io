@@ -42,8 +42,8 @@ Each session consists of a two 1-hour lectures with a 10 minute break in between
 The following schedule is a tentative assignment and will evolve in real time. Weekly materials will be added.
 
 * Lecture 1 (1/26) Introduction [[slides]](https://drive.google.com/drive/folders/1kOSrAYfnnHocNXC7KQtwE2ftnR5ABGA7?usp=sharing)
-* Lecture 2A (2/2) Biomechanics of walking and running
-* Lecture 2B (2/2) Robot mechanisms - kinematics and dynamics
+* Lecture 2A (2/2) Biomechanics of walking and running [[slides]](https://drive.google.com/file/d/17JA6jxcblXgU6t05C9Y_N92_OE1x_PTx/view?usp=sharing)
+* Lecture 2B (2/2) Robot mechanisms - kinematics and dynamics [[slides]](https://drive.google.com/file/d/1qHlJCWIBN12GBn47gEtQaxWL9veM7IIZ/view?usp=sharing)
 * Lecture 3A (2/9) The human hand and dexterous object manipulation + Robot hands
 * Lecture 3B (2/9) Proprioception and tactile perception
 * Lecture 4A (2/23) The developmental perspective on motor control
