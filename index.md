@@ -44,15 +44,16 @@ The following schedule is a tentative assignment and will evolve in real time. W
 * Lecture 1 (1/26) Introduction [[slides]](https://drive.google.com/drive/folders/1kOSrAYfnnHocNXC7KQtwE2ftnR5ABGA7?usp=sharing)
 * Lecture 2A (2/2) Biomechanics of walking and running [[slides]](https://drive.google.com/file/d/17JA6jxcblXgU6t05C9Y_N92_OE1x_PTx/view?usp=sharing)
 * Lecture 2B (2/2) Robot mechanisms - kinematics and dynamics [[slides]](https://drive.google.com/file/d/1qHlJCWIBN12GBn47gEtQaxWL9veM7IIZ/view?usp=sharing)
-* Lecture 3A (2/9) The human hand and dexterous object manipulation + Robot hands
-* Lecture 3B (2/9) Proprioception and tactile perception
-* Lecture 4A (2/23) The developmental perspective on motor control
-* Lecture 4B (2/23) Robot dynamics, control, and motion planning
-* Lecture 5A (3/2) Computational neuroscience perspective on prediction and control
-* Lecture 5B (3/2) Video World Models
-* Lecture 6AB (3/9) Reinforcement Learning
-* Lecture 7AB (3/16) Behavior cloning
-* Lecture 8AB (3/30) Visual Imitation
+* Lecture 3 (2/9) Introduction to Diffusion Models (Guest Lecture: [Angjoo Kanazawa](https://people.eecs.berkeley.edu/~kanazawa/))
+* Lecture 4A (2/23) The human hand and dexterous object manipulation + Robot hands
+* Lecture 4B (2/23) Proprioception and tactile perception
+* Lecture 5A (3/2) The developmental perspective on motor control
+* Lecture 5B (3/2) Robot dynamics, control, and motion planning
+* Lecture 6A (3/9) Computational neuroscience perspective on prediction and control
+* Lecture 6B (3/9) Video World Models
+* Lecture 7AB (3/16) Reinforcement Learning
+* Lecture 8A (3/30) Behavior cloning
+* Lecture 8B (3/30) Visual Imitation
 * Lecture 9AB (4/6) Case Studies in Locomotion
 * Lecture 10AB (4/13) Case Studies in Navigation
 * Lecture 11AB (4/20) Case Studies in Dexterous Manipulation
