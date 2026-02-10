@@ -44,7 +44,7 @@ The following schedule is a tentative assignment and will evolve in real time. W
 * Lecture 1 (1/26) Introduction [[slides]](https://drive.google.com/drive/folders/1kOSrAYfnnHocNXC7KQtwE2ftnR5ABGA7?usp=sharing)
 * Lecture 2A (2/2) Biomechanics of walking and running [[slides]](https://drive.google.com/file/d/17JA6jxcblXgU6t05C9Y_N92_OE1x_PTx/view?usp=sharing)
 * Lecture 2B (2/2) Robot mechanisms - kinematics and dynamics [[slides]](https://drive.google.com/file/d/1qHlJCWIBN12GBn47gEtQaxWL9veM7IIZ/view?usp=sharing)
-* Lecture 3 (2/9) Introduction to Diffusion Models (Guest Lecture: [Angjoo Kanazawa](https://people.eecs.berkeley.edu/~kanazawa/))
+* Lecture 3 (2/9) Introduction to Diffusion Models (Guest Lecture: [Angjoo Kanazawa](https://people.eecs.berkeley.edu/~kanazawa/)) [[slides]](https://drive.google.com/file/d/1oTBxptFBSA8EvcGHCy3UCNOV8Kvhw2cu/view?usp=sharing)
 * Lecture 4A (2/23) The human hand and dexterous object manipulation + Robot hands
 * Lecture 4B (2/23) Proprioception and tactile perception
 * Lecture 5A (3/2) The developmental perspective on motor control
@@ -117,6 +117,13 @@ N/A
 
 In advance of lecture 2B, students should try to familiarize themselves with how 3D rotations and translations are represented. We would like students to learn about "exponential coordinates" - how a rotation matrix is the exponential of a skew-symmetric matrix corresponding to the axis of rotation, and when rotation is accompanied by translation, we use the exponential of a twist. This formalism results in an elegant way to specify the forward kinematics of a robot using the product of matrix exponentials. The Li-Murray-Sastry textbook and the Lynch-Park textbook are good sources. You can find lectures on YouTube for Lynch-Park. I recommend the ones corresponding to Chapter 3.
 [[link]](https://www.youtube.com/watch?v=29LhXWjn7Pc&list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx&index=10)
+
+### Lecture 3
+
+[[Reading Assignment Submission Form]](https://docs.google.com/forms/d/e/1FAIpQLScJzNNQugbrZeM-uwKYgbe18sY07tVtEh-3x0BccxNQk4hkkg/viewform?usp=sharing&ouid=100618406782889124957)
+
+- Papamakarios, George, et al.  Normalizing Flows for Probabilistic Modeling and Inference. JMLR, 2021. [[PDF]](resources/normalizing_flows_paper.pdf)
+- Lipman, Yaron, et al. Flow Matching for Generative Modeling. ICLR, 2023. [[PDF]](resources/flow_matching_paper.pdf)
 
 <!--
 ### Lecture 3
