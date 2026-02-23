@@ -125,6 +125,21 @@ In advance of lecture 2B, students should try to familiarize themselves with how
 - Papamakarios, George, et al.  Normalizing Flows for Probabilistic Modeling and Inference. JMLR, 2021. [[PDF]](resources/normalizing_flows_paper.pdf)
 - Lipman, Yaron, et al. Flow Matching for Generative Modeling. ICLR, 2023. [[PDF]](resources/flow_matching_paper.pdf)
 
+### Lecture 4
+
+[[Reading Assignment Submission Form]](https://forms.gle/1m4iVkFfwL9t4AWi8)
+
+#### Lecture 4A
+
+- Video on human hand anatomy [[link]](https://www.youtube.com/watch?v=-y69D76RdMs)
+- Piazza, Cristina, et al. "A century of robotic hands." Annual Review of Control, Robotics, and Autonomous Systems 2.1 (2019): 1-32. [[PDF]](resources/century-of-robotic-hands.pdf)
+- [LEAP Hand](https://leaphand.com/), [LEAP Hand v2](https://openreview.net/forum?id=eQomRzRZEP)
+
+#### Lecture 4B
+
+- Jones, L. A. "Human hand function." (2006). [[PDF]](resources/Human_Hand_Function.pdf)
+- Esther P Gardner, "Touch" (2010). [[PDF]](resources/Gardner-ELS2010.pdf)
+
 <!--
 ### Lecture 3
 
