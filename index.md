@@ -47,8 +47,8 @@ The following schedule is a tentative assignment and will evolve in real time. W
 * Lecture 3 (2/9) Introduction to Diffusion Models (Guest Lecture: [Angjoo Kanazawa](https://people.eecs.berkeley.edu/~kanazawa/)) [[slides]](https://drive.google.com/file/d/1oTBxptFBSA8EvcGHCy3UCNOV8Kvhw2cu/view?usp=sharing)
 * Lecture 4A (2/23) The human hand and dexterous object manipulation + Robot hands [[slides]](https://drive.google.com/file/d/1Ai5YZBVxeLDnu4St8k77lJRP-clwiQmb/view?usp=sharing)
 * Lecture 4B (2/23) Proprioception and tactile perception [[slides]](https://drive.google.com/file/d/1Ai5YZBVxeLDnu4St8k77lJRP-clwiQmb/view?usp=sharing)
-* Lecture 5A (3/2) The developmental perspective on motor control
-* Lecture 5B (3/2) Robot dynamics, control, and motion planning
+* Lecture 5A (3/2) The developmental perspective on motor control [[slides]](https://drive.google.com/file/d/15PpUTKJqrkNPstF3Zv56IKY0Mp1PcHiY/view?usp=sharing)
+* Lecture 5B (3/2) Robot dynamics, control, and motion planning [[slides]](https://drive.google.com/file/d/1-3YRKH5VYfjxIXqEyaxqSA92TDRmM4Xg/view?usp=sharing)
 * Lecture 6A (3/9) Computational neuroscience perspective on prediction and control
 * Lecture 6B (3/9) Video World Models
 * Lecture 7AB (3/16) Reinforcement Learning
@@ -139,6 +139,20 @@ In advance of lecture 2B, students should try to familiarize themselves with how
 
 - Jones, L. A. "Human hand function." (2006). [[PDF]](resources/Human_Hand_Function.pdf)
 - Esther P Gardner, "Touch" (2010). [[PDF]](resources/Gardner-ELS2010.pdf)
+
+### Lecture 5
+
+[[Reading Assignment Submission Form]](https://forms.gle/VrmX3RMLm6NmwnGX7)
+
+#### Lecture 5A
+
+- Loquercio, Antonio, Ashish Kumar, and Jitendra Malik. "Learning visual locomotion with cross-modal supervision." 2023 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2023. [[PDF]](resources/ICRA23_Learning_to_see_by_walking_blind.pdf)
+- Smith, Linda B. and Michael Gasser. "The Development of Embodied Cognition: Six Lessons from Babies." Artificial Life 11 (2005): 13-29. [[PDF]](resources/6_lessons.pdf)
+
+#### Lecture 5B
+
+- Kawato M. Internal models for motor control and trajectory planning. Curr Opin Neurobiol. 1999 Dec;9(6):718-27. doi: 10.1016/s0959-4388(99)00028-8. PMID: 10607637. [[PDF]](resources/Kawato-internal-models.pdf)
+- Flanagan JR, Bowman MC, Johansson RS. Control strategies in object manipulation tasks. Curr Opin Neurobiol. 2006 Dec;16(6):650-9. doi: 10.1016/j.conb.2006.10.005. Epub 2006 Nov 3. PMID: 17084619. [[PDF]](resources/FlanaganBowmanJohansson06.pdf)
 
 <!--
 ### Lecture 3
