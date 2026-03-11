@@ -50,7 +50,7 @@ The following schedule is a tentative assignment and will evolve in real time. W
 * Lecture 5A (3/2) The developmental perspective on motor control [[slides]](https://drive.google.com/file/d/15PpUTKJqrkNPstF3Zv56IKY0Mp1PcHiY/view?usp=sharing)
 * Lecture 5B (3/2) Robot dynamics, control, and motion planning [[slides]](https://drive.google.com/file/d/1-3YRKH5VYfjxIXqEyaxqSA92TDRmM4Xg/view?usp=sharing)
 * Lecture 6A (3/9) Computational neuroscience perspective on prediction and control [[slides]](https://drive.google.com/file/d/1iPOTnIVZfc9odQMVZAXQfA2RnoGhoiT_/view?usp=sharing)
-* Lecture 6B (3/9) Video World Models
+* Lecture 6B (3/9) Video World Models [[slides]](https://drive.google.com/file/d/1uMUmV6oRy_Xdi1axUbwgRfIRh-Y_gQZ5/view?usp=sharing)
 * Lecture 7AB (3/16) Reinforcement Learning
 * Lecture 8A (3/30) Behavior cloning
 * Lecture 8B (3/30) Visual Imitation
@@ -156,9 +156,15 @@ In advance of lecture 2B, students should try to familiarize themselves with how
 
 ### Lecture 6
 
+[[Reading Assignment Submission Form]](https://forms.gle/RvPCdZj9AK2zQZVD8)
+
 #### Lecture 6A
 
 - Land, M et al. "The roles of vision and eye movements in the control of activities of daily living." Perception vol. 28,11 (1999): 1311-28. doi:10.1068/p2935 [[PDF]](resources/teamaking-land-mennie-rusted-1999.pdf)
+
+#### Lecture 6B
+- Ye, S., et al. "World Action Models are Zero-shot Policies." [[arXiv]](https://arxiv.org/pdf/2602.15922)
+- Bharadhwaj, H., et al. "Track2Act: Predicting Point Tracks from Internet Videos enables Generalizable Robot Manipulation." 2024 European Conference on Computer Vision. [[arXiv]](https://arxiv.org/pdf/2405.01527)
 
 <!--
 ### Lecture 3
