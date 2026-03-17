@@ -51,7 +51,7 @@ The following schedule is a tentative assignment and will evolve in real time. W
 * Lecture 5B (3/2) Robot dynamics, control, and motion planning [[slides]](https://drive.google.com/file/d/1-3YRKH5VYfjxIXqEyaxqSA92TDRmM4Xg/view?usp=sharing)
 * Lecture 6A (3/9) Computational neuroscience perspective on prediction and control [[slides]](https://drive.google.com/file/d/1iPOTnIVZfc9odQMVZAXQfA2RnoGhoiT_/view?usp=sharing)
 * Lecture 6B (3/9) Video World Models [[slides]](https://drive.google.com/file/d/1uMUmV6oRy_Xdi1axUbwgRfIRh-Y_gQZ5/view?usp=sharing)
-* Lecture 7AB (3/16) Reinforcement Learning
+* Lecture 7AB (3/16) Reinforcement Learning [[slides]](https://drive.google.com/drive/folders/1f1Njn94_skEIOBh_TBu153XHBLt-lR7d?usp=sharing)
 * Lecture 8A (3/30) Behavior cloning
 * Lecture 8B (3/30) Visual Imitation
 * Lecture 9AB (4/6) Case Studies in Locomotion
@@ -165,6 +165,13 @@ In advance of lecture 2B, students should try to familiarize themselves with how
 #### Lecture 6B
 - Ye, S., et al. "World Action Models are Zero-shot Policies." 2026 arXiv preprint. [[arXiv]](https://arxiv.org/pdf/2602.15922)
 - Bharadhwaj, H., et al. "Track2Act: Predicting Point Tracks from Internet Videos enables Generalizable Robot Manipulation." 2024 European Conference on Computer Vision. [[arXiv]](https://arxiv.org/pdf/2405.01527)
+
+### Lecture 7
+
+[[Reading Assignment Submission Form]](https://forms.gle/iBGxdg658tkrtW5S9)
+
+- "Learning to Walk via Deep Reinforcement Learning." RSS 2019. Tuomas Haarnoja, Sehoon Ha, Aurick Zhou, Jie Tan, George Tucker, Sergey Levine
+- Learning Dexterous In-Hand Manipulation. IJRR 2019. OpenAI et al.
 
 <!--
 ### Lecture 3
