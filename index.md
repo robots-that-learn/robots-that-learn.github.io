@@ -75,13 +75,13 @@ Please see below ("Reading Materials") for reading assignments.
 
 *Note: since the lecture content does not necessarily align with lecture title, each scribe is only required to cover the time slot they have signed up for.*
 
-**Midterm**: During the first hour of class (date TBD), we will have a mid-term exam based on questions sourced from the weekly reading assignments so far. A total of about 30 multiple-choice questions will be given. One 8.5"x11", double-sided cheat sheet will be permitted.
+**Midterm**: During the first hour of class on Monday, April 6, we will have a midterm exam based on questions sourced from the weekly reading assignments so far. A total of about 30 multiple-choice questions will be given. One 8.5"x11", double-sided cheat sheet will be permitted.
 
 **Final Project**: The goal of the final project is to explore and push the boundaries of robot learning, choosing from topics presented in this course. Here are a few examples of possible project formats: proposal and evaluation of new algorithms, investigation of a robotic application, benchmarking a range of existing methods, etc. Ideally, the project covers interesting new ground and could be the foundation for a future conference paper submission or product. The project can be done in groups of 1-4 people. Note that our expectations will scale linearly with the number of people in the group.
 
 ### Final Project Logistics
 
-**Project Proposal**: To keep track of your final project progress, please submit a 1 page project proposal using [this](https://docs.google.com/document/d/13wMRXYPVz0wzIJRM1M3s06glfL8gYmlqSaTy6W1D2iY/edit?usp=sharing) template by TBD (the day after midterm). Please submit through a Google doc shared with the course instructor and TA, so we can give feedback and suggestions. Note that this proposal will not be graded.
+**Project Proposal**: To keep track of your final project progress, please submit a 1 page project proposal using [this](https://docs.google.com/document/d/13wMRXYPVz0wzIJRM1M3s06glfL8gYmlqSaTy6W1D2iY/edit?usp=sharing) template by Monday, March 30 at 11:59PM. Please submit through a Google doc shared with the course instructor and TA, so we can give feedback and suggestions. Note that this proposal will not be graded.
 
 **Project Presentation**: We will have the final project presentations during RRR week during our regular class time (starting at 3:10pm). Due to the large number of projects we have, every group will have 5 minutes to present (no Q&A). This will serve as the most important basis for grading.
 
