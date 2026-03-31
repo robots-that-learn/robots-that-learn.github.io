@@ -52,8 +52,8 @@ The following schedule is a tentative assignment and will evolve in real time. W
 * Lecture 6A (3/9) Computational neuroscience perspective on prediction and control [[slides]](https://drive.google.com/file/d/1iPOTnIVZfc9odQMVZAXQfA2RnoGhoiT_/view?usp=sharing)
 * Lecture 6B (3/9) Video World Models [[slides]](https://drive.google.com/file/d/1uMUmV6oRy_Xdi1axUbwgRfIRh-Y_gQZ5/view?usp=sharing)
 * Lecture 7AB (3/16) Reinforcement Learning [[slides]](https://drive.google.com/drive/folders/1f1Njn94_skEIOBh_TBu153XHBLt-lR7d?usp=sharing)
-* Lecture 8A (3/30) Behavior cloning
-* Lecture 8B (3/30) Visual Imitation
+* Lecture 8A (3/30) Behavior cloning [[slides]](https://drive.google.com/file/d/1LTCCi0sOVNqTMGhkJUwMyIvOvFyb-krk/view?usp=sharing)
+* Lecture 8B (3/30) Visual Imitation [[slides]](https://drive.google.com/file/d/1ffPRW7qjmAtkswmFVzDtsraXgKBQt6RU/view?usp=sharing)
 * Lecture 9AB (4/6) Case Studies in Locomotion
 * Lecture 10AB (4/13) Case Studies in Navigation
 * Lecture 11AB (4/20) Case Studies in Dexterous Manipulation
@@ -177,17 +177,8 @@ In advance of lecture 2B, students should try to familiarize themselves with how
 
 [[Reading Assignment Submission Form]](https://forms.gle/tg5QrSxVEXeCtZLcA)
 
-#### Lecture 8A
-
 - Diffusion Policy [[Website]](https://diffusion-policy.cs.columbia.edu/) [[PDF]](resources/diffusion_policy_2023.pdf)
-
-#### Lecture 8B
-
-- Shaw K, Bahl S, Sivakumar A, Kannan A, Pathak D. Learning dexterity from human hand motion in internet videos. The International Journal of Robotics Research. 2024;43(4):513-532. doi:10.1177/02783649241227559 [[PDF]](resources/shaw-et-al-2024-learning-dexterity-from-human-hand-motion-in-internet-videos.pdf)
-
-- Goyal, Mohit, et al. "Human hands as probes for interactive object understanding." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022. [[PDF]](resources/Goyal_Human_Hands_As_Probes_for_Interactive_Object_Understanding_CVPR_2022_paper.pdf)
-
-- Kumar, Ashish, Saurabh Gupta, and Jitendra Malik. "Learning navigation subroutines from egocentric videos." Conference on Robot Learning. PMLR, 2020. [[PDF]](resources/ashish_kumar19.pdf)
+- Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots. RSS 2024. [[Paper]](https://arxiv.org/pdf/2402.10329)
 
 <!--
 ### Lecture 3
