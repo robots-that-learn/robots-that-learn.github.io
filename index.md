@@ -54,7 +54,7 @@ The following schedule is a tentative assignment and will evolve in real time. W
 * Lecture 7AB (3/16) Reinforcement Learning [[slides]](https://drive.google.com/drive/folders/1f1Njn94_skEIOBh_TBu153XHBLt-lR7d?usp=sharing)
 * Lecture 8A (3/30) Behavior cloning [[slides]](https://drive.google.com/file/d/1LTCCi0sOVNqTMGhkJUwMyIvOvFyb-krk/view?usp=sharing)
 * Lecture 8B (3/30) Visual Imitation [[slides]](https://drive.google.com/file/d/1ffPRW7qjmAtkswmFVzDtsraXgKBQt6RU/view?usp=sharing)
-* Lecture 9AB (4/6) Case Studies in Locomotion
+* Lecture 9AB (4/6) Case Studies in Locomotion [[slides]](https://drive.google.com/file/d/1pEQGFoiG-zMo2qXujx6M_DoH2HVMuQzC/view?usp=sharing)
 * Lecture 10AB (4/13) Case Studies in Navigation
 * Lecture 11AB (4/20) Case Studies in Dexterous Manipulation
 * Lecture 12AB (4/27) Long horizon planning and the role of language
@@ -179,6 +179,15 @@ In advance of lecture 2B, students should try to familiarize themselves with how
 
 - Diffusion Policy [[Website]](https://diffusion-policy.cs.columbia.edu/) [[PDF]](resources/diffusion_policy_2023.pdf)
 - Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots. RSS 2024. [[Paper]](https://arxiv.org/pdf/2402.10329)
+
+### Lecture 9
+
+[[Reading Assignment Submission Form]](https://forms.gle/8o6RUVfdvcvr8PKG6)
+
+- Kumar, Ashish, et al. RMA: Rapid Motor Adaptation for Legged Robots. RSS 2021. [[Website]](https://ashish-kmr.github.io/rma-legged-robots/) [[Paper]](https://ashish-kmr.github.io/rma-legged-robots/rma-locomotion-final.pdf)
+- Agarwal, Ananye, et al. Legged Locomotion in Challenging Terrains using Egocentric Vision. CoRL 2022. [[Website]](https://vision-locomotion.github.io/) [[Paper]](https://arxiv.org/pdf/2211.07638)
+
+
 
 <!--
 ### Lecture 3
