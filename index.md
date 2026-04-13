@@ -187,6 +187,9 @@ In advance of lecture 2B, students should try to familiarize themselves with how
 - Kumar, Ashish, et al. RMA: Rapid Motor Adaptation for Legged Robots. RSS 2021. [[Website]](https://ashish-kmr.github.io/rma-legged-robots/) [[Paper]](https://ashish-kmr.github.io/rma-legged-robots/rma-locomotion-final.pdf)
 - Agarwal, Ananye, et al. Legged Locomotion in Challenging Terrains using Egocentric Vision. CoRL 2022. [[Website]](https://vision-locomotion.github.io/) [[Paper]](https://arxiv.org/pdf/2211.07638)
 
+### Lecture 10
+
+[[Reading Assignment Submission Form]](https://forms.gle/9Ng3danqgm8rdHgT9)
 
 
 <!--
