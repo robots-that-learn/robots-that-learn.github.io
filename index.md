@@ -55,7 +55,7 @@ The following schedule is a tentative assignment and will evolve in real time. W
 * Lecture 8A (3/30) Behavior cloning [[slides]](https://drive.google.com/file/d/1LTCCi0sOVNqTMGhkJUwMyIvOvFyb-krk/view?usp=sharing)
 * Lecture 8B (3/30) Visual Imitation [[slides]](https://drive.google.com/file/d/1ffPRW7qjmAtkswmFVzDtsraXgKBQt6RU/view?usp=sharing)
 * Lecture 9AB (4/6) Case Studies in Locomotion [[slides]](https://drive.google.com/file/d/1pEQGFoiG-zMo2qXujx6M_DoH2HVMuQzC/view?usp=sharing)
-* Lecture 10AB (4/13) Case Studies in Navigation
+* Lecture 10AB (4/13) Case Studies in Navigation (Guest Lecture: [Jonas Frey](https://jonasfrey96.github.io/))
 * Lecture 11AB (4/20) Case Studies in Dexterous Manipulation
 * Lecture 12AB (4/27) Long horizon planning and the role of language
 * RRR Week (5/4) Final Project Presentations
