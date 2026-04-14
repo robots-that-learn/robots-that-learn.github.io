@@ -55,7 +55,7 @@ The following schedule is a tentative assignment and will evolve in real time. W
 * Lecture 8A (3/30) Behavior cloning [[slides]](https://drive.google.com/file/d/1LTCCi0sOVNqTMGhkJUwMyIvOvFyb-krk/view?usp=sharing)
 * Lecture 8B (3/30) Visual Imitation [[slides]](https://drive.google.com/file/d/1ffPRW7qjmAtkswmFVzDtsraXgKBQt6RU/view?usp=sharing)
 * Lecture 9AB (4/6) Case Studies in Locomotion [[slides]](https://drive.google.com/file/d/1pEQGFoiG-zMo2qXujx6M_DoH2HVMuQzC/view?usp=sharing)
-* Lecture 10AB (4/13) Case Studies in Navigation (Guest Lecture: [Jonas Frey](https://jonasfrey96.github.io/))
+* Lecture 10AB (4/13) Case Studies in Navigation (Guest Lecture: [Jonas Frey](https://jonasfrey96.github.io/)) [[slides]](https://drive.google.com/file/d/1R3nDFaiUo-qxrMNMjHdeqPQzOBMW42LA/view?usp=sharing)
 * Lecture 11AB (4/20) Case Studies in Dexterous Manipulation
 * Lecture 12AB (4/27) Long horizon planning and the role of language
 * RRR Week (5/4) Final Project Presentations
@@ -190,6 +190,9 @@ In advance of lecture 2B, students should try to familiarize themselves with how
 ### Lecture 10
 
 [[Reading Assignment Submission Form]](https://forms.gle/9Ng3danqgm8rdHgT9)
+
+- Chang, Matthew, et al. "Goat: Go to any thing." arXiv preprint arXiv:2311.06430 (2023). [[PDF]](resources/59_goat_go_to_any_thing.pdf)
+- Frey, Jonas, et al. "Fast Traversability Estimation for Wild Visual Navigation." RSS 2023. [[Paper]](https://arxiv.org/pdf/2305.08510)
 
 
 <!--
