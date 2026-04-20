@@ -194,6 +194,11 @@ In advance of lecture 2B, students should try to familiarize themselves with how
 - Chang, Matthew, et al. "Goat: Go to any thing." RSS 2024. [[PDF]](resources/59_goat_go_to_any_thing.pdf)
 - Frey, Jonas, et al. "Fast Traversability Estimation for Wild Visual Navigation." RSS 2023. [[Paper]](https://arxiv.org/pdf/2305.08510)
 
+### Lecture 11
+[[Reading Assignment Submission Form]](https://forms.gle/wPegg5ct6uHQgwKA6)
+
+TBD
+
 
 <!--
 ### Lecture 3
