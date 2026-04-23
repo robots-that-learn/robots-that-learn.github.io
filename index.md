@@ -197,7 +197,8 @@ In advance of lecture 2B, students should try to familiarize themselves with how
 ### Lecture 11
 [[Reading Assignment Submission Form]](https://forms.gle/wPegg5ct6uHQgwKA6)
 
-TBD
+- Lin, Toru, et al. "Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids." CoRL 2025. [[Website]](https://toruowo.github.io/recipe/) [[Paper]](https://toruowo.github.io/recipe/assets/recipe.pdf)
+- Choi, Hojung, et al. "In-the-Wild Compliant Manipulation with UMI-FT." ICRA 2026. [[Website]](https://umi-ft.github.io/) [[Paper]](https://arxiv.org/pdf/2601.09988)
 
 
 <!--
