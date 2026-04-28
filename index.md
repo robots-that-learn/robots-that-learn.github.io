@@ -57,7 +57,7 @@ The following schedule is a tentative assignment and will evolve in real time. W
 * Lecture 9AB (4/6) Case Studies in Locomotion [[slides]](https://drive.google.com/file/d/1pEQGFoiG-zMo2qXujx6M_DoH2HVMuQzC/view?usp=sharing)
 * Lecture 10AB (4/13) Case Studies in Navigation (Guest Lecture: [Jonas Frey](https://jonasfrey96.github.io/)) [[slides]](https://drive.google.com/file/d/1R3nDFaiUo-qxrMNMjHdeqPQzOBMW42LA/view?usp=sharing)
 * Lecture 11AB (4/20) Case Studies in Dexterous Manipulation [[slides]](https://drive.google.com/drive/folders/1uC4Lq8gRj3ZGKXIBtHqgwTz8o-uyX1yq?usp=sharing)
-* Lecture 12AB (4/27) Long horizon planning and the role of language
+* Lecture 12AB (4/27) Long horizon planning and the role of language [[slides]](https://drive.google.com/file/d/1y2T1CJbDxwngc5gzlXawJmjghZ8hS05Q/view?usp=share_link)
 * RRR Week (5/4) Final Project Presentations
 
 Please see below ("Reading Materials") for reading assignments.
@@ -200,6 +200,11 @@ In advance of lecture 2B, students should try to familiarize themselves with how
 - Lin, Toru, et al. "Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids." CoRL 2025. [[Website]](https://toruowo.github.io/recipe/) [[Paper]](https://toruowo.github.io/recipe/assets/recipe.pdf)
 - Choi, Hojung, et al. "In-the-Wild Compliant Manipulation with UMI-FT." ICRA 2026. [[Website]](https://umi-ft.github.io/) [[Paper]](https://arxiv.org/pdf/2601.09988)
 
+### Lecture 12
+[[Reading Assignment Submission Form]](https://forms.gle/WJA9Wiz2vEzjMUht7)
+
+- Physical Intelligence. "π0.5: a VLA with Open-World Generalization." CoRL 2025. [[Blog]](https://www.pi.website/blog/pi05) [[Paper]](https://www.pi.website/download/pi05.pdf)
+- Kim, Y, et al. "MolmoSpaces: A Large-Scale Open Ecosystem for Robot Navigation and Manipulation." arXiv 2026. [[Blog]](https://allenai.org/blog/molmospaces) [[Paper]](https://arxiv.org/pdf/2602.11337)
 
 <!--
 ### Lecture 3
